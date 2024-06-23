@@ -1,7 +1,10 @@
-## Naravit Vichathorn 👋
-**Robotic Engineer**
+# 👋 Naravit Vichathorn
 
-Hi, I'm a Robotic Engineer. I have a strong background in engineering software such as MATLAB, Simulink, and programing language such as Python and C++. I am well versed in Robotic tool box and library such as ROS2, Gazebo, CV2, and a little bit of Deep Learning/Image Classification.
+**`Robotic Engineer`**
+
+Hi, I'm a Robotic Engineer. I have a strong background in engineering software such as MATLAB, Simulink, and programing language such as Python and C++. I am well versed in Robotic tool box and library such as ROS2, Gazebo, CV2, and a little bit of Deep Learning/ Image Classification.
+
+**`Mechanical Engineer`**
 
 I also have a background in Mechanical Engineering. Some of the designing and manufacturing tool that I have used are: SolidWorks, Solid CAM, SolidWork Finite Element Analysis (FEA).
 With expertise in rapid prototyping via 3D printing for testing and validation, alongside training in UCLA's machine shop for manufacturing, I excel in bringing products from concept to reality seamlessly.
